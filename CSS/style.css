@@ -1,0 +1,105 @@
+/*Header*/
+header{
+	width: 944px;
+	height: 30px;
+	margin: 0 0 77px;
+}
+
+.logo{
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 50px;
+}
+.nav-div{
+	font-size: 16px;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.nav-li{
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 18px;
+}
+
+.nav-a{
+	color: #3D58A6;
+	font-size:22px ;
+}
+
+
+.active {
+	color:#EE4036 ;
+}
+
+/*Main page*/
+.section1{
+	margin-bottom: 116px;
+}
+.section1-cont{
+	width: 1170px;
+	height: 460px;
+	margin: 0 auto;
+}
+
+
+.section2-cont{
+	width: 1170px;
+	margin: 0 auto;
+}
+
+.section2-title{	
+	margin-bottom: 40px;
+}
+
+.leftblock{
+	width: 570px;
+	height: 225px;
+	background-color: #F2F2F2;
+	padding: 10px 15px 24px 28px;
+	display: inline-block;
+	margin-right: 25px;
+}
+
+.rightblock{
+	width: 570px;
+	height: 225px;
+	background-color: #F2F2F2;
+	padding: 10px 15px 24px 28px;
+	display: inline-block;
+}
+
+.block-title{
+	margin-bottom: 12.7px;
+}
+
+.block-image{
+	display: inline-block;
+	width: 100px;
+	vertical-align: middle;
+	margin-right: 60px;
+}
+
+.block-text{
+	display: inline-block;
+	width: 355px;
+	vertical-align: middle;
+	font-size: 20px;
+}
+
+
+footer{
+	height: 87px;
+}
+.footerslash{
+	width: 1px;
+	height: 27px;
+	background-color: #363E97;
+	margin: 0 37px;
+	display: inline-block;
+}
+.footer-cont{
+	display: inline-block;
+	vertical-align: middle;
+	margin: 35px 0 28px 50px; 
+}
