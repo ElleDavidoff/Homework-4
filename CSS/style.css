@@ -143,8 +143,41 @@ header{
 	margin-top: 40px;
 }
 
+/*Contact page*/
+.contact-section{
+	background-color: #E6E6E6;
+	padding: 40px 0 65px ;
+}
 
+.contact-container{
+	width: 1170px;
+	margin: 0 auto;
+}
+.contact{
+	color: #707070;
+}
 
+.contact-title{
+	color:#3D58A6 ;
+	font-weight: normal;
+}
+
+.contact-block{
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 64px
+}
+
+.contact-list{
+	font-size: 16px;
+}
+
+.map{
+	display: inline-block;
+	vertical-align: top;
+}
+
+ 
 footer{
 	height: 87px;
 }
