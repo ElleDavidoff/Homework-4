@@ -1,4 +1,7 @@
-/*Header*/
+ 
+@import url("//cdn.web-fonts.ge/fonts/bpg-square/css/bpg-square.min.css");
+
+ /*Header*/
 header{
 	width: 944px;
 	height: 30px;
@@ -112,6 +115,7 @@ header{
 	margin-top: 26px;
 	font-size: 20px;
 	font-weight: normal;
+	font-family: "BPG Square", sans-serif;
 }
 .news-container1{
 	margin-top: 30px;
