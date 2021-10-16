@@ -1,6 +1,3 @@
- 
-@import url("//cdn.web-fonts.ge/fonts/bpg-square/css/bpg-square.min.css");
-
  /*Header*/
 header{
 	width: 944px;
@@ -96,13 +93,13 @@ header{
 	width: 56px;
 	height: 56px;
 	background-color: #3D58A6;
+	padding: 2px 2px 2px 2px;
 }
 
 .date{
 	font-size: 48px;
 	color: white;
 	vertical-align: middle;
-	padding: 2px 2px 2px 2px;
 }
 
 .news-main-title {
@@ -114,8 +111,10 @@ header{
 .news-title{
 	margin-top: 26px;
 	font-size: 20px;
-	font-weight: normal;
-	font-family: "BPG Square", sans-serif;
+	font-family: "BPG DedaEna Nonblock", sans-serif;
+	font-weight: bold;
+	letter-spacing: 2px;
+
 }
 .news-container1{
 	margin-top: 30px;
@@ -126,21 +125,29 @@ header{
 	vertical-align: top;
 }
 .news-text1{
-	width: 929px;
 	font-size: 16px;
 	display: inline-block;
 	text-align: top;
 	margin-bottom: 55px;
+	font-family: "BPG Mikheil Stefane", sans-serif;
+	letter-spacing: 1px;
+	line-height: 20px;
+
 }
 
 .news-text2{
 	font-size: 16px;
 	display: inline-block;
 	text-align: top;
+	font-family: "BPG Mikheil Stefane", sans-serif;
+	letter-spacing: 1px;
+	line-height: 20px;
+
 }
 .text-container{
-	width: 929px;
+	width: 800px;
 	display: inline-block;
+	vertical-align: top;
 	margin-left: 36px;
 }
 .news-paragraph2{
